@@ -1,4 +1,4 @@
-# Privacy Policy -- OneBreathFlow
+# Privacy Policy OneBreathFlow
 
 This Privacy Policy describes how Xingya Wang ("we," "us,"
 or "our") handles information in connection with the OneBreathFlow mobile
