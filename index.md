@@ -1,6 +1,4 @@
-PRIVACY POLICY FOR OneBreathFlow
-
-Last updated: 07/03/2026
+# Privacy Policy -- OneBreathFlow
 
 This Privacy Policy describes how Xingya Wang ("we," "us,"
 or "our") handles information in connection with the OneBreathFlow mobile
@@ -118,3 +116,7 @@ after changes take effect constitutes acceptance of the revised policy.
 12. CONTACT US
 
 If you have questions about this Privacy Policy, contact us at: act2wxy@gmail.com.
+
+
+
+Last updated: 07/03/2026
