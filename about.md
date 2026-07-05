@@ -1,4 +1,4 @@
-# OneBreathFlow
+# About OneBreathFlow
 
 **Calm, Focus & Better Sleep — one breath at a time.**
 
