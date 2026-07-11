@@ -1,122 +1,99 @@
-# Privacy Policy OneBreathFlow
+# About OneBreathFlow
 
-This Privacy Policy describes how Xingya Wang ("we," "us,"
-or "our") handles information in connection with the OneBreathFlow mobile
-application and its Apple Watch companion (collectively, the "App"). By
-using the App, you agree to the practices described in this policy.
+**Calm, Focus & Better Sleep — one breath at a time.**
 
-We built OneBreathFlow to be private by design. The App does not require an
-account, and the information you create in the App is stored on your device.
+OneBreathFlow is a guided breathing app for iPhone and Apple Watch. A glowing orb on screen guides each inhale, hold, and exhale, so you can breathe deeply without counting in your head.
 
-1. INFORMATION WE DO NOT COLLECT
+No account required. Your data stays on your device.
 
-We do not collect, store, or transmit personally identifiable information
-such as your name, email address, phone number, or precise location. The App
-does not use third-party analytics, advertising networks, or tracking
-technologies, and does not track you across other apps or websites.
+---
 
-The App does not access your location, Health data, Contacts, Camera, or
-Microphone.
+## Breathe for how you feel right now
 
-2. INFORMATION STORED ON YOUR DEVICE
+Choose from four modes, each designed for a different moment in your day:
 
-The following information is created and stored locally on your device (and,
-where applicable, in your device's iCloud/system backups managed by Apple).
-We do not have access to it:
+- **Calm** — ease stress and quiet your mind
+- **Focus** — center yourself before work or study
+- **Energy** — feel refreshed and alert
+- **Relief** — release tension and reset
 
-  • Your breathing session history and activity records
-  • Streaks, points, and rewards progress
-  • Session configurations and breathing patterns
-  • Theme and appearance preferences
-  • Daily reminder settings
-  • App settings (such as sound and haptic preferences)
+Tap **BREATHE** on the home screen and follow the orb. That’s it.
 
-This data stays on your device. If you delete the App, this locally stored
-data is removed from your device.
+---
 
-3. APPLE WATCH SYNC
+## Designed to feel simple, not clinical
 
-If you use the Apple Watch companion, session settings and related data are
-synced directly between your iPhone and your paired Apple Watch using
-Apple's WatchConnectivity framework. This transfer occurs between your own
-devices and is not sent to us.
+OneBreathFlow is built around a calm, single-screen experience:
 
-4. NOTIFICATIONS
+- **Visual guidance** — a breathing orb expands and contracts with each phase
+- **Sound & haptic cues** — optional tones and gentle feedback to keep you in rhythm
+- **Session configuration** — adjust mode, intensity, duration, and adaptivity in seconds
+- **Progress insight** — track sessions, streaks, and your breathing practice over time
+- **Daily reminders** — optional nudges on the days and times you choose
 
-If you enable reminders, the App schedules local notifications on your
-device to remind you to practice. These reminders are generated on-device
-and are not sent from or through our servers.
+---
 
-5. PURCHASES AND SUBSCRIPTIONS
+## Apple Watch companion
 
-OneBreathFlow offers an optional premium subscription ("OneBreathFlow Pro"). To
-process and manage purchases, we use:
+Take your practice on your wrist. OneBreathFlow includes an Apple Watch app with haptic-guided breathing sessions.
 
-  • Apple / App Store: All payments are handled by Apple. We never receive
-    or store your payment card details. Apple's handling of your information
-    is governed by Apple's Privacy Policy.
+Save a session preset from iPhone and sync it to your Watch — perfect for a quick reset between meetings, before bed, or anytime you need a moment of calm.
 
-  • RevenueCat: We use RevenueCat, Inc. to manage subscriptions and validate
-    purchases. RevenueCat may process information such as a randomly generated
-    app user identifier, your purchase and subscription history, and technical
-    information such as device type, operating system, and IP address, in
-    order to provide subscription functionality. We do not use this
-    information to identify you personally. For details, see RevenueCat's
-    Privacy Policy at https://www.revenuecat.com/privacy/.
+---
 
-We use purchase information solely to provide, restore, and manage your
-access to premium features.
+## Make it yours with OneBreathFlow Pro
 
-6. HOW WE USE INFORMATION
+Core breathing sessions are free. **OneBreathFlow Pro** unlocks deeper customization for users who want a fully tailored experience:
 
-Information is used only to:
+- Custom sound and haptic cues
+- Fully tailored breathing sessions — custom exercises, patterns, and visual guidance
+- Unlimited custom themes
+- Calming background sounds
+- All future Pro feature updates
 
-  • Provide and maintain the App's features
-  • Deliver and restore premium subscription functionality
-  • Sync your settings between your own Apple devices
-  • Send the reminders you choose to enable
+Available as **Monthly**, **Annual**, or **Lifetime** options inside the app.
 
-We do not sell your information, and we do not share it for advertising or
-marketing purposes.
+---
 
-7. DATA RETENTION AND DELETION
+## Private by design
 
-App content you create is retained on your device until you delete it in the
-App or delete the App. Purchase records processed by Apple and RevenueCat are
-retained according to their respective policies. To cancel a subscription,
-manage it in your Apple ID subscription settings.
+We built OneBreathFlow to respect your privacy:
 
-8. CHILDREN'S PRIVACY
+- **No account or login**
+- **No ads or cross-app tracking**
+- **Breathing history, streaks, themes, and settings stored locally on your device**
+- **Apple Watch sync stays between your own devices**
 
-The App is not directed to children under the age of 13 (or the equivalent
-minimum age in your jurisdiction), and we do not knowingly collect personal
-information from children.
+Read our full [Privacy Policy](https://wxyzz22.github.io/OneBreathFlow/).
 
-9. SECURITY
+---
 
-Because your app content is stored locally on your device, it is protected by
-your device's own security features. Purchase-related data is transmitted
-over encrypted connections by Apple and RevenueCat.
+## Get started in three steps
 
-10. YOUR RIGHTS
+1. **Open OneBreathFlow** and tap **BREATHE** on the center orb.
+2. **Choose your mode** — Calm, Focus, Energy, or Relief — from Session Configuration.
+3. **Build the habit** — set a daily reminder in Settings and watch your progress grow.
 
-Depending on where you live, you may have rights under laws such as the GDPR
-(EU/UK) or CCPA (California) regarding personal information. Because we do not
-maintain personal information about you on our own servers, most of your data
-is controlled directly by you on your device. For requests relating to data
-processed by our service providers, you can also contact them directly using
-the links in this policy.
+---
 
-11. CHANGES TO THIS POLICY
+## Download
 
-We may update this Privacy Policy from time to time. Changes will be posted at
-this page with an updated "Last updated" date. Your continued use of the App
-after changes take effect constitutes acceptance of the revised policy.
+**OneBreathFlow** is available on the App Store for iPhone, with an Apple Watch companion included.
 
-12. CONTACT US
+[Download on the App Store](#)
 
-If you have questions about this Privacy Policy, contact us at: act2wxy@gmail.com.
+---
+
+## Support & legal
+
+- [Support & FAQs](https://wxyzz22.github.io/OneBreathFlow/support)
+- [Privacy Policy](https://wxyzz22.github.io/OneBreathFlow/)
+- [Terms of Use (Apple Standard EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+- **Contact:** [act2wxy@gmail.com](mailto:act2wxy@gmail.com?subject=OneBreathFlow)
 
 
 
-Last updated: 07/03/2026
+---
+
+**Developer:** Xingya Wang  
+**Last updated:** July 4, 2026
